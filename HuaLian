@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+      <meta charset="utf-8">
+      <title>太子鬼王像，線上參拜</title>
+      <style>
+        .heading {color:red; font-family:標楷體; font-size:80px}
+        .content1 {color:red; font-family:標楷體; font-size:80px}
+      </style>
+  </head>
+
+  <body background="https://pic.pimg.tw/zeos2469/48c1ee260d20e.gif" width="1920" height="1080">
+
+
+        <table width="1920" border="0">
+        <tr>
+        <td colspan="3" background="https://img95.699pic.com/photo/40140/6544.gif_wh860.gif" background-repeat  width="2920">
+            <h1>太子鬼王像，線上參拜</h1>
+            <p>點擊參拜。數位顯靈</p>
+            <p>保佑您~<br>平安健康，發家致富<br>金榜題名，獨占鰲頭<br>終成眷屬，早生貴子</p>
+        </td>
+        </tr>
+
+        <tr>
+
+            <td >
+            <img src="https://64.media.tumblr.com/1f49db164fd052c661116cdc746be4f8/64b7abb38845dbe5-55/s540x810/f92df49c2bca7d9ee7937226332135611bc42eda.png" height="800">
+            </td>
+
+            <td >
+            <img src="https://64.media.tumblr.com/ccd7c0cde3e2d2966cf41f7898a5615b/64b7abb38845dbe5-13/s400x600/9318dfe751087054ce1ac1a91540e6b212ab0e21.jpg" height="800">
+            </td>
+
+            <td >
+            <img src="https://64.media.tumblr.com/56a0a25944fad2f4a2b93b7c1b254914/64b7abb38845dbe5-1e/s540x810/7ff4589d934239de97915d2c98b26322ee6402e1.png" height="800">
+            </td>
+
+        </tr>
+
+        <tr>
+        <td colspan="2" style="background-color:#FFA500;text-align:center;">
+        版权 © runoob.com</td>
+        </tr>
+        </table>
+
+
+      <h1></h1>
+      <img src="" />
+  </body>
+</html>
